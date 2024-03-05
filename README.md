@@ -12,7 +12,7 @@
 ## Introduction
 This project contains a web scraper that retrieves news articles and data from a website.
 
-
+![](https://github.com/Prakashpsk/Web-Scraper/blob/main/Presentation1.png)
 
 
 ## What I Am Doing in This Project
